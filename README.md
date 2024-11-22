@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lihan Amalsha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lihanamalsha&label=Profile%20views&color=0e75b6&style=flat" alt="lihanamalsha" /> </p>
 
 - 🌱 I’m currently learning **Java**
+
+- 🧑‍🎓 I'm an Undergraduate at ICBT
 
 - 💬 Ask me about **Java**
 
