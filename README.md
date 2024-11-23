@@ -37,7 +37,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lihanAmalsha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lihanAmalsha&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
@@ -63,4 +63,4 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/lihanAmalsha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lihanAmalsha" /></a></p>
